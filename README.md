@@ -36,11 +36,12 @@ Notes :
 
 Patch Notes :
 
--Fixed some death screen bugs that could result in game freezes
-
--Playfab now using device names
-
--Fixed some bugs that caused button to not work
+-Fixed a game crash on tutorial
+-Changed tutorial to be much faster
+-Fixed AI's spawning in walls
+-Leaderboards are now hosted by playfab instead of leaderboard creator
+-Leaderboards cleared
+-Now uses your Username as your playfab DisplayName
 
 
 Game Modes :
